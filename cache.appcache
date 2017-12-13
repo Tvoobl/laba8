@@ -1,0 +1,20 @@
+CACHE MANIFEST
+
+CACHE:
+index.html
+Admin.html
+Coment.html
+Contact.html
+News.html
+Students.html
+
+css/bootstrap.css
+css/style.css
+css/font-awesome.min.css
+
+js/my.js
+js/admin.js
+js/bootstrap.min.js
+
+FALLBACK:
+404.html
